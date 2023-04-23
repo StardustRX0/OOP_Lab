@@ -3,15 +3,15 @@ import java.util.Arrays;
 
 public class DisplayDays
 {
-    static boolean isLeapYear(int year)
+    static boolean LeapYear(int Year)
     {
-        if (year % 4 != 0)
+        if (Year % 4 != 0)
         {
             return false;
         }
         else
         {
-            return year % 100 != 0 || year % 400 == 0;
+            return Year % 100 != 0 || Year % 400 == 0;
         }
     }
 
@@ -23,11 +23,11 @@ public class DisplayDays
 
         while (true)
         {
-            System.out.println("Enter month and year: (separated by newline)");
+            System.out.println("Enter month and Year: (separated by newline)");
             String strMonth = myInput.nextLine();
             String strYear = myInput.nextLine();
 
-            int year = Integer.parseInt(strYear);
+            int Year = Integer.parseInt(strYear);
 
             if (Arrays.asList(Month).contains(strMonth))
             {
@@ -37,7 +37,7 @@ public class DisplayDays
                 }
                 if (strMonth.equals("February") || strMonth.equals("Feb") || strMonth.equals("Feb.") || strMonth.equals("2"))
                 {
-                    if (isLeapYear(year))
+                    if (LeapYear(Year))
                         System.out.println(29);
                     else
                         System.out.println(28);
