@@ -4,8 +4,6 @@ public class ArraySort
 {
     public static void main(String[] args)
     {
-        //int[] my_array1 = new int[]{1789, 2035, 1899, 1456, 2013};
-
         Scanner Input = new Scanner(System.in);
 
         System.out.print("Enter array size: ");
