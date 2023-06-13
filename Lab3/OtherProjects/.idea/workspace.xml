@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="873d5d3e-fbfd-4bcd-8b14-edeef4dde2bd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../AimsProject/src/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/aims/Aims.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AimsProject/src/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/aims/cart/Cart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AimsProject/src/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AimsProject/src/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/aims/store/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AimsProject/src/TestPassingParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/test/disc/TestPassingParameter.java" afterDir="false" />
-    </list>
+    <list default="true" id="873d5d3e-fbfd-4bcd-8b14-edeef4dde2bd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +30,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "release/lab03",
     "last_opened_file_path": "D:/src/OOP_Lab/Lab3/OtherProjects",
     "vue.rearranger.settings.migration": "true"
   }
@@ -50,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1686060745502</updated>
       <workItem from="1686060746568" duration="221000" />
+      <workItem from="1686206251170" duration="38000" />
     </task>
     <servers />
   </component>
